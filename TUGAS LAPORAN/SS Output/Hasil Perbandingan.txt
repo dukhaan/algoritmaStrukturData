@@ -1,0 +1,31 @@
+25 ribu data
+1. INSERTION = 0.47 detik
+2. SELECTION = 0.488 detik
+3. BUBBLE = 1.75 detik
+4. SHELLL = 0.003 detik
+5. MERGE = 0.005 detik
+6. QUICK = 0.002 detik
+
+50 ribu data
+1. INSERTION = 0.958 detik
+2. SELECTION = 1.64 detik
+3. BUBBLE = 7.95 detik
+4. SHELLL = 0.005 detik
+5. MERGE = 0.023 detik
+6. QUICK = 0.004 detik
+
+75 ribu data
+1. INSERTION = 2.92 detik
+2. SELECTION = 4.75 detik
+3. BUBBLE = 19.239 detik
+4. SHELLL = 0.008 detik
+5. MERGE = 0.055 detik
+6. QUICK = 0.006 detik
+
+100 ribu data
+1. INSERTION = 3.63 detik
+2. SELECTION = 6.04 detik
+3. BUBBLE = 26.7 detik
+4. SHELLL = 0.013 detik
+5. MERGE = 0.126 detik
+6. QUICK = 0.007 detik

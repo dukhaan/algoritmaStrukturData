@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680152351 source:c:\users\dukhaan\documents\2022\pens 2022\semester 2\tugas\praktikum asd bu umi\prakt minggu 6\temp_polish\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1680762132 source:c:\users\dukhaan\documents\2022\pens 2022\semester 2\tugas\praktikum asd bu umi\prakt minggu 6\notasi_polish\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

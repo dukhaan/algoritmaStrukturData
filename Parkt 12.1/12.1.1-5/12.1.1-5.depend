@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684148867 source:c:\users\dukhaan\documents\2022\pens 2022\semester 2\tugas\praktikum asd bu umi\parkt 12.1\12.1.1-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
